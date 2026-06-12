@@ -1,0 +1,21 @@
+# Clarity Travel Technology — DS Assessment
+# Python 3.12+ / 3.14 compatible versions
+# Install with: pip install -r requirements.txt
+
+# Core data science
+pandas>=3.0.0
+numpy>=2.0.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Machine learning
+scikit-learn>=1.4.0
+xgboost>=2.0.0
+
+# Streamlit app
+streamlit>=1.35.0
+
+# Jupyter notebooks
+jupyter>=1.1.0
+ipykernel>=6.29.0
+nbformat>=5.10.0
